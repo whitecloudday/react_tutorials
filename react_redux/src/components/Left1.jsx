@@ -10,4 +10,4 @@ const Left1 = (props) => {
   )
 }
 
-export default Left1
+export default Left1 
